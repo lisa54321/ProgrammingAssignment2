@@ -38,3 +38,4 @@ i <- x$getinverse()
   i
 
 }
+## End of functions for Assignment 2
